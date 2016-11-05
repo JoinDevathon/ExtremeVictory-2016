@@ -1,4 +1,4 @@
 name: DevathonPlugin
-main: org.devathon.contest2016.DevathonPlugin
+main: org.devathon.contest2016.MainClass
 version: 1.0
 author: extreme_victory
