@@ -1,0 +1,4 @@
+name: DevathonPlugin
+main: org.devathon.contest2016.DevathonPlugin
+version: 1.0
+author: extreme_victory
